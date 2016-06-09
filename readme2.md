@@ -3,7 +3,7 @@ Headings?
 ###tertiary heading
 
 unordered lists
-*first item
-*new item
-*other item
+* first item
+* new item
+* other item
 
